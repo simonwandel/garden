@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: Journey
 draft: false
 tags:
-  - example-tag
+  - tech
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

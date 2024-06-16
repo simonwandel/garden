@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Simon's Garden
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello there :) I am Simon, a young software engineer based in Düsseldorf Germany and this is my digital garden where I share ideas, concepts, and so much more.
